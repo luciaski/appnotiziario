@@ -1,0 +1,6 @@
+{
+  "name": "Notiziario IA Giornaliero (PWA)",
+  "description": "Un'applicazione PWA che genera un bollettino di notizie giornaliero dettagliato utilizzando l'IA, lo trasforma in un notiziario audio e funziona offline.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
